@@ -1,7 +1,7 @@
 {
-  "version": "0.1",
+  "version": "0.2",
   "releaseDate": "2026-10-11",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "Initial v0.1 release: High-performance desktop anime player with MAL OAuth PKCE integration, zero ads, smart prefetching, and integrated automatic updater."
+  "changelog": "v0.2 release: Comprehensive MyAnimeList authentication and profile fixes (native reqwest profile fetch, resilient Zod schema for avatars/optional fields, instant optimistic login state, auto-sync on login, zero CORS)."
 }

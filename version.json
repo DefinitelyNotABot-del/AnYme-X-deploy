@@ -1,7 +1,7 @@
 {
-  "version": "0.6",
+  "version": "0.7",
   "releaseDate": "2026-10-11",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.6 release: Fixed critical demux parsing error (fragParsingError) where HLS audio requests mistakenly matched cached video segments in findFragmentIndex() and EpisodeCacheManager, feeding multi-megabyte video chunks into the audio decoder and permanently stalling playback even when segments were fully downloaded to disk (green bar). Strictly isolated audio and subtitle streams from video segment caches with precise URL resolution."
+  "changelog": "v0.7 release: Fixed critical cross-provider cache collision where EpisodeCacheManager shared episode disk directories across providers, causing multiplexed audio+video streams (such as AnimeSuge) to load video-only cached segments from dual-track providers (such as Miruro), completely silencing audio and stalling decoder playback at 00:03. Episode disk caches are now strictly isolated per provider and audio mode. Expanded real-time audio and playhead anomaly detection: active HLS audio track listeners, Chromium audio decoded byte count health monitoring, audio buffer underflow warnings, playhead freeze detection, snap-to-zero recovery, and unexpected forward/backward skip tracking."
 }

@@ -1,7 +1,7 @@
 {
-  "version": "0.3",
+  "version": "0.4",
   "releaseDate": "2026-10-11",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.3 release: Resolved video player adblocker/sandbox collision. Disabled dead public SOCKS5 proxies by default on clean installations, eliminated restrictive iframe sandbox attributes blocked by streaming hosts (while relying on native Tauri Rust navigation guards), fixed buffering overlay interference over iframe embeds, and added auto proxy drop fallback."
+  "changelog": "v0.4 release: Fixed video player seek buffering and snap-to-0 issue. Resolved aggressive stall auto-healing timer prematurely firing during seek transmuxing, eliminated destructive forward jumps and playhead zeroing during waterfall fallback, added robust query-agnostic segment cache matching, and ensured instant zero-copy reads for disk-cached episode segments."
 }

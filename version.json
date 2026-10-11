@@ -1,7 +1,7 @@
 {
-  "version": "0.7",
-  "releaseDate": "2026-10-11",
+  "version": "0.8",
+  "releaseDate": "2026-10-12",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.7 release: Fixed critical cross-provider cache collision where EpisodeCacheManager shared episode disk directories across providers, causing multiplexed audio+video streams (such as AnimeSuge) to load video-only cached segments from dual-track providers (such as Miruro), completely silencing audio and stalling decoder playback at 00:03. Episode disk caches are now strictly isolated per provider and audio mode. Expanded real-time audio and playhead anomaly detection: active HLS audio track listeners, Chromium audio decoded byte count health monitoring, audio buffer underflow warnings, playhead freeze detection, snap-to-zero recovery, and unexpected forward/backward skip tracking."
+  "changelog": "v0.8 release: Unified media player routing and playback pipeline across all catalog titles without restrictive modal blockers or playback interruptions. Standardized anime detail page actions with direct watch links and continuation tracking. Enhanced fallback error handling across single-server and auto-waterfall provider configurations, delivering clear server availability status whenever network or provider streams fail to resolve."
 }

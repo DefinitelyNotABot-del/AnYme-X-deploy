@@ -1,7 +1,7 @@
 {
-  "version": "0.13.2",
+  "version": "0.13.3",
   "releaseDate": "2026-10-14",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.13.2: Default Fullscreen on launch with global F11 toggle"
+  "changelog": "v0.13.3: Default Maximized window with OS titlebar and taskbar preserved"
 }

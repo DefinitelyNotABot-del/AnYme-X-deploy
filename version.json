@@ -1,7 +1,7 @@
 {
-  "version": "0.10.1",
+  "version": "0.10.2",
   "releaseDate": "2026-10-14",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.10.1 Patch Release: Removed redundant Playlists button from the top navigation bar (accessible directly under My List > Playlists). Restored crisp native HTML5 WebVTT subtitle track rendering and removed duplicate DOM subtitle overlay. Fixed mouse cursor disappearing or falling behind the player during sub/dub switching, stream buffering, or when minimizing."
+  "changelog": "v0.10.2: Clean Google Drive API error handling and direct console activation button"
 }

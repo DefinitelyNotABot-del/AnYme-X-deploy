@@ -1,7 +1,7 @@
 {
-  "version": "0.9.1",
-  "releaseDate": "2026-10-13",
+  "version": "0.9.2",
+  "releaseDate": "2026-10-14",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.9.1 release: Multi-core CPU rasterization and GPU hardware acceleration enabled for WebView2 and Tokio runtime. Resolved application stutter by coalescing anime card scrapers into batch GraphQL queries. Implemented video player auto-hiding mouse cursor alongside controls timeout. Added airing episode ceiling guard. Fixed OwO CDN referer routing and undefined website selector fallbacks."
+  "changelog": "v0.9.2 release: Dedicated high-contrast DOM subtitle renderer with parsed cue synchronizer to eliminate native Chromium subtitle occlusion and text track index desync. Overhauled player subtitle and quality menus with max height boundaries, custom scrollbar, active indicators, and text truncation to prevent menu clipping and text overflow."
 }

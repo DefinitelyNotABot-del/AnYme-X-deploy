@@ -1,7 +1,7 @@
 {
-  "version": "0.10.2",
+  "version": "0.10.3",
   "releaseDate": "2026-10-14",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.10.2: Clean Google Drive API error handling and direct console activation button"
+  "changelog": "v0.10.3: Cloud Backup: Include bookmarks, playlists, and all user preferences"
 }

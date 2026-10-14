@@ -1,7 +1,7 @@
 {
-  "version": "0.12.0",
+  "version": "0.13.0",
   "releaseDate": "2026-10-14",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.12.0: Phase 3: High-impact flagship features - Offline Downloads, Cloud Auto-Sync, Airing Alarms, Per-Anime Preferences, Subtitle Studio, Command Palette, Provider Circuit Breaker"
+  "changelog": "v0.13.0: All Enhancement Phases Complete: Video Player Modularization, Virtualized Grid, and Storage Cache Inspector"
 }

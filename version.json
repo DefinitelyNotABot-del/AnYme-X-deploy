@@ -1,7 +1,7 @@
 {
-  "version": "0.9.2",
+  "version": "0.10.0",
   "releaseDate": "2026-10-14",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.9.2 release: Dedicated high-contrast DOM subtitle renderer with parsed cue synchronizer to eliminate native Chromium subtitle occlusion and text track index desync. Overhauled player subtitle and quality menus with max height boundaries, custom scrollbar, active indicators, and text truncation to prevent menu clipping and text overflow."
+  "changelog": "v0.10.0 Feature Release: Complete feature parity between PC and Mobile. Ported Bookmarks to PC with dedicated store, bookmarks route, BookmarksGrid, TabBar integration, and anime detail quick action. Ported Custom Playlists & Watch Orders to Mobile with Room database entities, migration, repository, and sequencer screen. Implemented persistent global playlist picking mode across Discover, Home, My List, and Calendar with Cancel (0 additions) vs. Done & Return to Playlist buttons. Added anime detail quick actions (Bookmark, Add to Playlist, Copy Title, Share)."
 }

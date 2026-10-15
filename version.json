@@ -1,7 +1,7 @@
 {
-  "version": "0.13.6",
+  "version": "0.13.7",
   "releaseDate": "2026-10-15",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.13.6: Group offline downloads by anime with dedicated anime card and interactive episode shelf"
+  "changelog": "v0.13.7: Move Skip 1:30 and Prev/Next Episode buttons inside player underneath seekbar, AppData encrypted vault"
 }

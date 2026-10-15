@@ -1,7 +1,7 @@
 {
-  "version": "0.13.5",
+  "version": "0.13.6",
   "releaseDate": "2026-10-15",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.13.5: Fix offline video playback via protocol-asset and hide ffmpeg terminal popup"
+  "changelog": "v0.13.6: Group offline downloads by anime with dedicated anime card and interactive episode shelf"
 }

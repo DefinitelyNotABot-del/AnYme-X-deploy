@@ -1,7 +1,7 @@
 {
-  "version": "0.14.2",
+  "version": "0.14.3",
   "releaseDate": "2026-10-16",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.14.2: Fix collapsed subtitle and quality dropdown menus, add deterministic HTML subtitle overlay, and implement real-time subtitle timestamp missing-cue event logger"
+  "changelog": "v0.14.3: Restore native video subtitles, fix dropdown header scroll clipping and scrollbar theme"
 }

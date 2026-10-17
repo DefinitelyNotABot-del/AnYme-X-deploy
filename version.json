@@ -1,11 +1,11 @@
 {
-  "version": "0.15.1",
+  "version": "0.15.2",
   "releaseDate": "2026-10-17",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.15.1: Fix Android Studio Gradle sync and restore mobile streaming links using PC multi-provider waterfall",
-  "mobileVersion": "0.15.1",
+  "changelog": "v0.15.2: Redesign mobile Watch page UI with Zunjae AnYme X episode grid, quick MAL bar, and host picker",
+  "mobileVersion": "0.15.2",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-17",
-  "mobileChangelog": "v0.15.1: Fix Android Studio Gradle sync and restore mobile streaming links using PC multi-provider waterfall"
+  "mobileChangelog": "v0.15.2: Redesign mobile Watch page UI with Zunjae AnYme X episode grid, quick MAL bar, and host picker"
 }

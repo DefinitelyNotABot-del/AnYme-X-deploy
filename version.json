@@ -1,11 +1,11 @@
 {
-  "version": "0.15.8",
+  "version": "0.15.9",
   "releaseDate": "2026-10-18",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.15.8: v0.15.8: Resource-adaptive incremental story pattern matcher, smart score gate & TV format lock",
-  "mobileVersion": "0.15.8",
+  "changelog": "v0.15.9: v0.15.9: Native app UX (disable browser context menu & selection highlight), copy title on click, and fix Watch-to-Detail back navigation loading hang",
+  "mobileVersion": "0.15.9",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-18",
-  "mobileChangelog": "v0.15.8: v0.15.8: Resource-adaptive incremental story pattern matcher, smart score gate & TV format lock"
+  "mobileChangelog": "v0.15.9: v0.15.9: Native app UX (disable browser context menu & selection highlight), copy title on click, and fix Watch-to-Detail back navigation loading hang"
 }

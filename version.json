@@ -1,11 +1,11 @@
 {
-  "version": "0.15.5",
-  "releaseDate": "2026-10-17",
+  "version": "0.15.6",
+  "releaseDate": "2026-10-18",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.15.5: Fix MAL list sync deletion of ecchi/borderline titles like Magical Explorer",
-  "mobileVersion": "0.15.5",
+  "changelog": "v0.15.6: Fix Gemini API Native Fetch & Test Connection in Settings",
+  "mobileVersion": "0.15.6",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
-  "mobileReleaseDate": "2026-10-17",
-  "mobileChangelog": "v0.15.5: Fix MAL list sync deletion of ecchi/borderline titles like Magical Explorer"
+  "mobileReleaseDate": "2026-10-18",
+  "mobileChangelog": "v0.15.6: Fix Gemini API Native Fetch & Test Connection in Settings"
 }

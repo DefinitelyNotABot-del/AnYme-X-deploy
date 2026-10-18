@@ -1,11 +1,11 @@
 {
-  "version": "0.15.6",
+  "version": "0.15.7",
   "releaseDate": "2026-10-18",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.15.6: Fix Gemini API Native Fetch & Test Connection in Settings",
-  "mobileVersion": "0.15.6",
+  "changelog": "v0.15.7: v0.15.7: Clean obsolete files & update Gemini models to 3.5 Flash-Lite",
+  "mobileVersion": "0.15.7",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-18",
-  "mobileChangelog": "v0.15.6: Fix Gemini API Native Fetch & Test Connection in Settings"
+  "mobileChangelog": "v0.15.7: v0.15.7: Clean obsolete files & update Gemini models to 3.5 Flash-Lite"
 }

@@ -1,6 +1,6 @@
 {
-  "version": "0.16.4",
+  "version": "0.16.5",
   "releaseDate": "2026-10-19",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
-  "changelog": "v0.16.4: fix(upscaler): eliminate glyph erosion and black halos in AI upscaler and fix low-res 260p simulation"
+  "changelog": "v0.16.5: Multi-server 30s benchmark, upscaler resolution tests, and zero-error HLS proxy recovery"
 }

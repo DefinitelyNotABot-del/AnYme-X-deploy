@@ -1,6 +1,6 @@
 {
-  "version": "0.15.9",
-  "releaseDate": "2026-10-18",
+  "version": "0.15.10",
+  "releaseDate": "2026-10-19",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
-  "changelog": "v0.15.9: v0.15.9: Native app UX (disable browser context menu & selection highlight), copy title on click, and fix Watch-to-Detail back navigation loading hang"
+  "changelog": "v0.15.10: v0.15.10: Themed OLED context menu, global blue selection removal, and copy title on click"
 }

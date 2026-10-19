@@ -1,6 +1,6 @@
 {
-  "version": "0.16.2",
+  "version": "0.16.3",
   "releaseDate": "2026-10-19",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
-  "changelog": "v0.16.2: feat: add Miruro-style Anime4K upscale UI and resolve 403 Forbidden on Ultracloud streams"
+  "changelog": "v0.16.3: fix(player): resolve Miruro Ultracloud HTTP 403 playback error and fix low-res upscaler simulation"
 }

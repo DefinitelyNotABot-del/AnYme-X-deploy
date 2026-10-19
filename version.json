@@ -1,11 +1,11 @@
 {
-  "version": "0.16.0",
+  "version": "0.16.1",
   "releaseDate": "2026-10-19",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.16.0: feat(upscaler): Multi-Pass AI Upscaler (260p/360p/480p/720p -> 1080p default & 4K setting) + Synchronized Side-by-Side Test Lab (/upscaler-lab)",
-  "mobileVersion": "0.16.0",
+  "changelog": "v0.16.1: fix(streaming): resolve Miruro sun/knob dub streams, CDN headers & 4Animo slug matching",
+  "mobileVersion": "0.16.1",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-19",
-  "mobileChangelog": "v0.16.0: feat(upscaler): Multi-Pass AI Upscaler (260p/360p/480p/720p -> 1080p default & 4K setting) + Synchronized Side-by-Side Test Lab (/upscaler-lab)"
+  "mobileChangelog": "v0.16.1: fix(streaming): resolve Miruro sun/knob dub streams, CDN headers & 4Animo slug matching"
 }

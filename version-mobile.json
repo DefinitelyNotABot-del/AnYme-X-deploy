@@ -1,6 +1,6 @@
 {
-  "version": "0.15.11",
+  "version": "0.16.0",
   "releaseDate": "2026-10-19",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
-  "changelog": "v0.15.11: v0.15.11: Remove localhost copy URL and fix native desktop fullscreen toggle"
+  "changelog": "v0.16.0: feat(upscaler): Multi-Pass AI Upscaler (260p/360p/480p/720p -> 1080p default & 4K setting) + Synchronized Side-by-Side Test Lab (/upscaler-lab)"
 }

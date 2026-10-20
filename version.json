@@ -1,9 +1,9 @@
 {
-  "version": "0.16.8",
+  "version": "0.16.9",
   "releaseDate": "2026-10-20",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.16.8: v0.16.8: Universal health check across all providers and server clusters",
+  "changelog": "v0.16.9: v0.16.9: Expanded player event log definitions, CDN edge routing overhaul, episode load race guard, and purge leftover telemetry",
   "mobileVersion": "0.16.6",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-20",

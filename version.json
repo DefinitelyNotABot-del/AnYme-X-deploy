@@ -1,9 +1,9 @@
 {
-  "version": "0.16.7",
+  "version": "0.16.8",
   "releaseDate": "2026-10-20",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.16.7: v0.16.7: Parallel test suite, referer routing overhaul for 100% server uptime, and mobile decoupling",
+  "changelog": "v0.16.8: v0.16.8: Universal health check across all providers and server clusters",
   "mobileVersion": "0.16.6",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-20",

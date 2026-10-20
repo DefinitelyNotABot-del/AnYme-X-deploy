@@ -1,6 +1,6 @@
 {
-  "version": "0.16.5",
-  "releaseDate": "2026-10-19",
+  "version": "0.16.6",
+  "releaseDate": "2026-10-20",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
-  "changelog": "v0.16.5: Multi-server 30s benchmark, upscaler resolution tests, and zero-error HLS proxy recovery"
+  "changelog": "v0.16.6: Modularize extractors, active stream health probe, Anime4K visual sharpness, expunge AI recommendation system"
 }

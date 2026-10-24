@@ -1,7 +1,7 @@
 {
-  "version": "0.16.7",
-  "versionCode": 1607,
+  "version": "0.16.8",
+  "versionCode": 1608,
   "releaseDate": "2026-10-24",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
-  "changelog": "v0.16.7: Decoupled mobile updates, full NSFW MAL sync matching web stats, Flixera token security fix, ReCloud NovusCloud redirects, clean default video player integration"
+  "changelog": "v0.16.8: In-app AndroidX Media3 ExoPlayer with segment HTTP header injection, full AnimeSuge (auto, vidstream-2, hd-1) with MegaPlay decryption + HMAC CDN signing, Miruro (14 sub-servers: sun, kiwi, knob, bee, bun, bonk, twin, moo, cog, telli, pewe, ally, nun, hop) XOR catalog decompressor, 4Animo (auto, a-1, hd-1, s-1, flixera), and dual dropdown website/server selector matching PC UI"
 }

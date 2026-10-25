@@ -1,9 +1,9 @@
 {
-  "version": "0.16.15",
-  "releaseDate": "2026-10-24",
+  "version": "0.16.16",
+  "releaseDate": "2026-10-25",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.16.15: v0.16.15: Systemic fix for anime broadcast schedule synchronization using live AniList nextAiringAt truth",
+  "changelog": "v0.16.16: Unified NetworkManager and resilient DownloadManager for low/offline queuing and instant auto-resumption",
   "mobileVersion": "0.16.7",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-24",

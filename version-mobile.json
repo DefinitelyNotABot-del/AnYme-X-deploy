@@ -1,7 +1,7 @@
 {
-  "version": "0.16.10",
-  "versionCode": 1610,
+  "version": "0.16.11",
+  "versionCode": 1611,
   "releaseDate": "2026-10-25",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
-  "changelog": "v0.16.10: Re-architected mobile video streaming pipeline with forced HLS MediaSource, 500ms ultra-low buffer start, dynamic CDN Referer & Origin header injection (4Animo/NovusCloud, AnimeSuge/MegaPlay, Flixera, Miruro), season-aware multi-variant candidate resolver for AnimeSuge, auto-fallback error recovery, prominent Website & Sub-Server selector directly under in-app player, removed external intent popups and dead drawer links, and bound Stats screen to official MAL server statistics."
+  "changelog": "v0.16.11: Aligned mobile streaming provider architecture with PC version. Replaced standalone Flixera with PC server naming (4Animo: A-1, HD-1, S-1; Miruro: 14 sub-servers with PC alias mapping; AnimeSuge: Vidstream-2, HD-1). Injected Accept-Encoding: identity to eliminate Cloudflare Brotli decoding crashes in ExoPlayer. Added active NovusCloud ReCloud CDN resolution and multi-domain failover."
 }

@@ -1,9 +1,9 @@
 {
-  "version": "0.18.2",
+  "version": "0.18.3",
   "releaseDate": "2026-10-26",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.18.2: Enterprise AES-256-GCM AEAD Credential Encryption & Lean Google Drive Personal Cloud Store",
+  "changelog": "v0.18.3: Google Sign-In In-App Assistant Modal & Error Handling",
   "mobileVersion": "0.16.7",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-24",

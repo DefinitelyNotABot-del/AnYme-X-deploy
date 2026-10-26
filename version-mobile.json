@@ -1,7 +1,7 @@
 {
-  "version": "0.16.11",
-  "versionCode": 1611,
-  "releaseDate": "2026-10-25",
+  "version": "0.16.12",
+  "versionCode": 1612,
+  "releaseDate": "2026-10-26",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
-  "changelog": "v0.16.11: Aligned mobile streaming provider architecture with PC version. Replaced standalone Flixera with PC server naming (4Animo: A-1, HD-1, S-1; Miruro: 14 sub-servers with PC alias mapping; AnimeSuge: Vidstream-2, HD-1). Injected Accept-Encoding: identity to eliminate Cloudflare Brotli decoding crashes in ExoPlayer. Added active NovusCloud ReCloud CDN resolution and multi-domain failover."
+  "changelog": "v0.16.12: Added persistent OLED Anti-Burn-In Protection mode enforcing true pitch-black (#000000) surfaces, dimmed subpixel luminance, and subdued warm violet accents to eliminate AMOLED pixel wear. Aligned streaming provider sub-servers with PC app (4Animo, Miruro, AnimeSuge) with Brotli decoding fix."
 }

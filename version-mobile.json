@@ -1,7 +1,7 @@
 {
-  "version": "0.16.13",
-  "versionCode": 1613,
+  "version": "0.16.14",
+  "versionCode": 1614,
   "releaseDate": "2026-10-26",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
-  "changelog": "v0.16.13: Added Content Filtering control to remove NSFW anime listings and cards from search, seasonal charts, and recommendations. Enhanced card rendering guards and refined navigation drawer presentation."
+  "changelog": "v0.16.14: Implemented Two-Tier OLED Anti-Burn-In Protection. Tier 1 Active: Continuous shifting animated linear gradient on stationary UI elements (Bottom Nav Bar, In-App Browser Top Bar, card borders). Tier 2 AFK: Full-display gentle drifting gradient modulation after 45s of user inactivity to prevent subpixel ghosting."
 }

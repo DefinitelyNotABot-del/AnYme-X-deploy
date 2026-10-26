@@ -1,9 +1,9 @@
 {
-  "version": "0.16.16",
-  "releaseDate": "2026-10-25",
+  "version": "0.16.17",
+  "releaseDate": "2026-10-26",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.16.16: Unified NetworkManager and resilient DownloadManager for low/offline queuing and instant auto-resumption",
+  "changelog": "v0.16.17: Notification Center UI, Zero-Corruption Download Resumption, Subtitle Dialogue Fix, OLED Delete Dialogs",
   "mobileVersion": "0.16.7",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-24",

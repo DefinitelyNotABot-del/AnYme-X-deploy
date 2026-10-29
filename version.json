@@ -1,9 +1,9 @@
 {
-  "version": "0.18.5",
-  "releaseDate": "2026-10-27",
+  "version": "0.18.6",
+  "releaseDate": "2026-10-29",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.18.5: Google Cloud Setup Instructions Modal, Drive File ID Masking, & Lean Export Optimization",
+  "changelog": "v0.18.6: Fix SPA navigation hanging and blank screen with watchdog, error boundary, and remove context menu double divider",
   "mobileVersion": "0.16.7",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-24",

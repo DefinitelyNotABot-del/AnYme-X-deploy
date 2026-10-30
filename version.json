@@ -1,9 +1,9 @@
 {
-  "version": "0.18.8",
-  "releaseDate": "2026-10-29",
+  "version": "0.18.9",
+  "releaseDate": "2026-10-30",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.18.8: Fix next-episode prefetched playback hang, upgrade Anime4K to WebGPU trained CNN 1080p/4K RTX pipeline with A/B split compare, and harden SPA reload guards",
+  "changelog": "v0.18.9: Fix upscaler lab 403 fallback with adaptive multi-resolution HLS, add local anime video drag-and-drop file picker for WebGPU Anime4K testing, and route browser dev scraper fetches through CORS dev-proxy",
   "mobileVersion": "0.16.7",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-24",

@@ -1,9 +1,9 @@
 {
-  "version": "0.18.10",
+  "version": "0.18.11",
   "releaseDate": "2026-10-30",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.18.10: Fix updater relaunch path to sync and run updated executable, resolving infinite restart loop when running from local development or portable paths",
+  "changelog": "v0.18.11: Eliminate Alt-Tab background freeze by opting out of Windows EcoQoS, disabling WebView2 throttling and tab discarding, restoring immediate focus, and debouncing refocus reloads",
   "mobileVersion": "0.16.7",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-24",

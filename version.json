@@ -1,9 +1,9 @@
 {
-  "version": "0.18.12",
+  "version": "0.18.13",
   "releaseDate": "2026-10-30",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.18.12: OLED Anti-Burn-In 30s Pause Dimmer, Miruro Stream Resolution Decoder Binding & Rewatch Compact Grouping",
+  "changelog": "v0.18.13: Restore translucent top bar, fix status rewatch layout, stop nav error flash, and resolve alt-tab freeze",
   "mobileVersion": "0.16.7",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-24",

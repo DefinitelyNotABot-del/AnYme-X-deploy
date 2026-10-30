@@ -1,9 +1,9 @@
 {
-  "version": "0.18.7",
+  "version": "0.18.8",
   "releaseDate": "2026-10-29",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.18.7: Never auto-restart app on updates: notify user with interactive Restart button",
+  "changelog": "v0.18.8: Fix next-episode prefetched playback hang, upgrade Anime4K to WebGPU trained CNN 1080p/4K RTX pipeline with A/B split compare, and harden SPA reload guards",
   "mobileVersion": "0.16.7",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-24",

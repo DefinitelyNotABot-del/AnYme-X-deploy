@@ -1,9 +1,9 @@
 {
-  "version": "0.18.14",
+  "version": "0.18.15",
   "releaseDate": "2026-10-31",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.18.14: Accurate weekly releasing dub episode tracking, fix false complete dub assumption on finished series",
+  "changelog": "v0.18.15: Remove duplicate bookmarks in My List, fix fake 7-day countdown with real air date and TBA fallback",
   "mobileVersion": "0.16.7",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-24",

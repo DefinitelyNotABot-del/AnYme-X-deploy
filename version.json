@@ -1,9 +1,9 @@
 {
-  "version": "0.18.15",
-  "releaseDate": "2026-10-31",
+  "version": "0.18.16",
+  "releaseDate": "2026-11-01",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.18.15: Remove duplicate bookmarks in My List, fix fake 7-day countdown with real air date and TBA fallback",
+  "changelog": "v0.18.16: Implement Miruro Anime4K WebGPU upscaler with dynamic letterbox layout, auto watchdog, audio lip-sync delay, and AI pixel clarity comparator suite",
   "mobileVersion": "0.16.7",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-24",

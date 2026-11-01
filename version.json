@@ -1,9 +1,9 @@
 {
-  "version": "0.18.16",
+  "version": "0.18.17",
   "releaseDate": "2026-11-01",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.18.16: Implement Miruro Anime4K WebGPU upscaler with dynamic letterbox layout, auto watchdog, audio lip-sync delay, and AI pixel clarity comparator suite",
+  "changelog": "v0.18.17: Switch graphics backend to native DirectX 12 D3D12 hardware pipeline with D3D12VideoDecoder and zero-copy rasterization",
   "mobileVersion": "0.16.7",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-24",

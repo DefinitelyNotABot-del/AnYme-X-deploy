@@ -1,9 +1,9 @@
 {
-  "version": "0.18.17",
+  "version": "0.18.18",
   "releaseDate": "2026-11-01",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.18.17: Switch graphics backend to native DirectX 12 D3D12 hardware pipeline with D3D12VideoDecoder and zero-copy rasterization",
+  "changelog": "v0.18.18: Restore native Direct3D 11 DirectComposition UI pipeline — fix 20fps slideshow by removing invalid --use-angle=d3d12 flag, throttle AFK event listeners to eliminate scroll stutter",
   "mobileVersion": "0.16.7",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-24",

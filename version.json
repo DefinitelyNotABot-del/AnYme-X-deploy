@@ -1,9 +1,9 @@
 {
-  "version": "0.18.20",
+  "version": "0.18.21",
   "releaseDate": "2026-11-02",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.18.20: Fix Archive.org scraper for Idaten Jump and LBX, eliminate infinite error loop in watch page, and prevent false cold-start fatal stall errors",
+  "changelog": "v0.18.21: Multi-resolution virtual master M3U8 & instant quality switch with green bar reset, grouped notifications stack, Data Saver mode with device-local Data stats tab, custom SubtitleOverlay fix, frosted glass player popups with hover animations, non-blocking Anime4K WebGPU A/V sync fix, and Settings uninstall button",
   "mobileVersion": "0.16.7",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-24",

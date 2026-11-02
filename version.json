@@ -1,9 +1,9 @@
 {
-  "version": "0.18.19",
-  "releaseDate": "2026-11-01",
+  "version": "0.18.20",
+  "releaseDate": "2026-11-02",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.18.19: Eliminate green blocky frame glitches on start and seek — restore stable D3D11 hardware video decoder and gate Anime4K upscaler during seeking",
+  "changelog": "v0.18.20: Fix Archive.org scraper for Idaten Jump and LBX, eliminate infinite error loop in watch page, and prevent false cold-start fatal stall errors",
   "mobileVersion": "0.16.7",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-24",

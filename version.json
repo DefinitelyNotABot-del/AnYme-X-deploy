@@ -1,9 +1,9 @@
 {
-  "version": "0.18.22",
-  "releaseDate": "2026-11-03",
+  "version": "0.18.23",
+  "releaseDate": "2026-11-04",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.18.22: Fast AnimeSuge & Miruro stream startup, CF Solver CDN rules update, full server health verification, and remade Data Usage stats graph",
+  "changelog": "v0.18.23: Fix AnimeSuge MegaPlay data-id lookup (was using data-realid -> 404), rewrite dead mysubsplay.com subtitle URLs to the live CDN mirror (Miruro/AnimeSuge), add cross-provider subtitle rescue for 4Animo, raise slow 4Animo probe timeouts, fast Flixera-first candidate order",
   "mobileVersion": "0.16.7",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-24",

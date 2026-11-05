@@ -1,9 +1,9 @@
 {
-  "version": "0.18.25",
+  "version": "0.18.26",
   "releaseDate": "2026-11-05",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.18.25: Fix AnimeSuge HLS loader sync callback freeze, subserver auto-rotate, and Ep6 clamping",
+  "changelog": "v0.18.26: Fix stall downscale loop, protect playhead bandwidth, and raise fragment wait timeout",
   "mobileVersion": "0.16.7",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-24",

@@ -1,9 +1,9 @@
 {
-  "version": "0.18.26",
-  "releaseDate": "2026-11-05",
+  "version": "0.18.27",
+  "releaseDate": "2026-11-07",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.18.26: Fix stall downscale loop, protect playhead bandwidth, and raise fragment wait timeout",
+  "changelog": "v0.18.27: Fix Anime Reverse Image Search WebView2 CORS & preview bug and fix audio stream selection for dual-audio anime",
   "mobileVersion": "0.16.7",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-24",

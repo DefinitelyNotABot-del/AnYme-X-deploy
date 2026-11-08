@@ -1,9 +1,9 @@
 {
-  "version": "0.18.28",
+  "version": "0.18.29",
   "releaseDate": "2026-11-08",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.18.28: Smooth animated fullscreen transition without pausing or redownloading segments",
+  "changelog": "v0.18.29: Fix FLIP fullscreen expand/shrink animation from player slot position and eliminate Anime4K WebGPU dual-image glitch",
   "mobileVersion": "0.16.7",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-24",

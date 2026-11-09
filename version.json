@@ -1,9 +1,9 @@
 {
-  "version": "0.18.30",
-  "releaseDate": "2026-11-08",
+  "version": "0.18.31",
+  "releaseDate": "2026-11-09",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.18.30: Fix updater network fallback to jsDelivr/GitHub API and eliminate false latest version on check failure",
+  "changelog": "v0.18.31: Fix FLIP fullscreen expand/shrink geometry, scroll tracking, and eliminate pre/post animation glitches",
   "mobileVersion": "0.16.7",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-24",

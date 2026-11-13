@@ -1,9 +1,9 @@
 {
-  "version": "0.18.33",
-  "releaseDate": "2026-11-11",
+  "version": "0.18.34",
+  "releaseDate": "2026-11-13",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.18.33: Fix subtitle 404 error and missing player subtitle button",
+  "changelog": "v0.18.34: Fix player heap bloat, eliminate frame drop spikes, and restore smooth 24fps video playback",
   "mobileVersion": "0.16.7",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-24",

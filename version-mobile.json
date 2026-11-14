@@ -1,7 +1,7 @@
 {
-  "version": "0.17.2",
-  "versionCode": 1702,
+  "version": "0.17.3",
+  "versionCode": 1703,
   "releaseDate": "2026-11-14",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
-  "changelog": "v0.17.2: Resolved Room database migration schema validation for Network Data Usage tracking, preventing app startup terminations; enhanced in-app browser rendering fidelity."
+  "changelog": "v0.17.3: Optimized video player trigger heuristics in web engine to prevent unauthorized autoplay banners from opening external players; strictly requires verified user gestures for media playback."
 }

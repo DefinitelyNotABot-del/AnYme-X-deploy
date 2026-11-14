@@ -1,7 +1,7 @@
 {
-  "version": "0.17.0",
-  "versionCode": 1700,
+  "version": "0.17.1",
+  "versionCode": 1701,
   "releaseDate": "2026-11-14",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
-  "changelog": "v0.17.0: Introduced Network & Mobile Data Usage Monitor in Stats (Day, Week, Month, Year & Total tracking). Upgraded video player pipeline to match PC architecture with live buffer visualization, non-blocking touch scrub preview, and streamlined browser escape navigation."
+  "changelog": "v0.17.1: Polished in-app browser webview engine to preserve full page rendering fidelity and prevent popup tabs while streamlining navigation guards."
 }

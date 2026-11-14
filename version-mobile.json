@@ -1,7 +1,7 @@
 {
-  "version": "0.16.15",
-  "versionCode": 1615,
-  "releaseDate": "2026-10-28",
+  "version": "0.17.0",
+  "versionCode": 1700,
+  "releaseDate": "2026-11-14",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
-  "changelog": "v0.16.15: Enhanced video player with intuitive double-tap gesture seeking (±10s rewind and forward), smooth visual feedback badges, and navigation drawer responsiveness polish."
+  "changelog": "v0.17.0: Introduced Network & Mobile Data Usage Monitor in Stats (Day, Week, Month, Year & Total tracking). Upgraded video player pipeline to match PC architecture with live buffer visualization, non-blocking touch scrub preview, and streamlined browser escape navigation."
 }

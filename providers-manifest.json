@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-15T17:11:02.398Z",
+  "providerOrder": [
+    "Miruro",
+    "AnimeSuge",
+    "4Animo",
+    "Archive.org"
+  ],
+  "animesuge": {
+    "mirrors": [
+      "https://animesuge.re",
+      "https://animesuge.skin",
+      "https://animesuge.to",
+      "https://animesuge.cc",
+      "https://animesuge.nz"
+    ],
+    "megaplayBaseUrl": "https://megaplay.buzz/",
+    "megaplayAesKey": "i?LMTAx0Q6,:}50U",
+    "megaplayAesIv": "W0;27ToaUpl_P%'c",
+    "megaplayHmacKey": "MpCdnT0k3n!9f2K#xQ7vL5mR8wN1pY4s",
+    "vrfRc4Key": "ysJhV6U27FVIjjuk",
+    "vrfDecryptKey": "hlPeNwkncH0fq9so"
+  },
+  "4animo": {
+    "mirrors": [
+      "https://4animo.xyz",
+      "https://4animo.to",
+      "https://4animo.tv",
+      "https://4animo.pe",
+      "https://4animo.li"
+    ],
+    "embedBases": [
+      "https://novuscloud.buzz",
+      "https://cdn.4animo.xyz"
+    ],
+    "flixeraBase": "https://flixera.co"
+  },
+  "miruro": {
+    "mirrors": [
+      "https://www.miruro.bz",
+      "https://www.miruro.tv",
+      "https://www.miruro.cx",
+      "https://www.miruro.to",
+      "https://www.miruro.online"
+    ]
+  },
+  "archive": {
+    "base": "https://archive.org",
+    "knownMalIds": {
+      "1316": {
+        "sub": [
+          "r-raws-idaten-jump-20-dvd-640x-480-x-264-10bit-aac-0-fe-1844-e_20211022",
+          "r-raws-idaten-jump-20-dvd-640x-480-x-264-10bit-aac-0-fe-1844-e_202110",
+          "r-raws-idaten-jump-20-dvd-640x-480-x-264-10bit-aac-0-fe-1844-e",
+          "animax-idaten-dub"
+        ],
+        "dub": [
+          "animax-idaten-dub",
+          "episode-1-jonn-jonzz-01",
+          "idaten-jump-ep-01-us-dub",
+          "idaten-jump-ep-13-us-dub",
+          "idaten-jump-Duel",
+          "idaten-jump-episode-15_202311",
+          "idaten-jump-us-version"
+        ],
+        "hi": [
+          "idaten-jump-all-episodes-in-hindi",
+          "idaten-jump-hindi-episodes"
+        ]
+      },
+      "7081": {
+        "sub": [
+          "Danball-Senki-2011-HD",
+          "episode-1_20231228"
+        ],
+        "dub": [
+          "episode-1_20231228",
+          "episode-1-part-1.mp-4-download-4shared-saki-s",
+          "Danball-Senki-2011-HD"
+        ]
+      },
+      "12617": {
+        "sub": [
+          "ry-ro-danball-senki-w-01-720p-b-3-b-6-c-2-c-9"
+        ],
+        "dub": [
+          "CardBoard-Battle-Machines-Wars-English-Dub",
+          "ry-ro-danball-senki-w-01-720p-b-3-b-6-c-2-c-9"
+        ]
+      },
+      "15771": {
+        "sub": [
+          "danball-senki-wars-2013-HD",
+          "CardBoard-Battle-Machines-Wars-English-Dub"
+        ],
+        "dub": [
+          "CardBoard-Battle-Machines-Wars-English-Dub",
+          "lbx-wars-dub-ep1",
+          "danball-senki-wars-2013-HD"
+        ]
+      }
+    }
+  }
+}

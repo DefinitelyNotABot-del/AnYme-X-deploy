@@ -1,9 +1,9 @@
 {
-  "version": "0.18.35",
-  "releaseDate": "2026-11-14",
+  "version": "0.19.0",
+  "releaseDate": "2026-11-15",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.18.35: Fix watch page infinite reactivity loop and UI hang on unreleased episodes",
+  "changelog": "v0.19.0: Add console controller/keyboard spatial navigation, background episode buffer continuity, details page 2:3 poster layout redesign, and unified PC/Mobile self-healing stream manifest with Archive.org dubs",
   "mobileVersion": "0.16.7",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-24",

@@ -1,7 +1,7 @@
 {
-  "version": "0.17.3",
-  "versionCode": 1703,
-  "releaseDate": "2026-11-14",
+  "version": "0.17.4",
+  "versionCode": 1704,
+  "releaseDate": "2026-11-19",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
-  "changelog": "v0.17.3: Optimized video player trigger heuristics in web engine to prevent unauthorized autoplay banners from opening external players; strictly requires verified user gestures for media playback."
+  "changelog": "v0.17.4: Added External Video Player default launch mode & quick switcher; fixed Referer header propagation for external players (resolving broken CDN links); added persistent 16:9 animated loading viewport and server selector spinner for smooth server switching."
 }

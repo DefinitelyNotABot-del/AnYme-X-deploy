@@ -1,7 +1,7 @@
 {
-  "version": "0.17.4",
-  "versionCode": 1704,
-  "releaseDate": "2026-11-19",
+  "version": "0.17.5",
+  "versionCode": 1705,
+  "releaseDate": "2026-11-20",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
-  "changelog": "v0.17.4: Added External Video Player default launch mode & quick switcher; fixed Referer header propagation for external players (resolving broken CDN links); added persistent 16:9 animated loading viewport and server selector spinner for smooth server switching."
+  "changelog": "v0.17.5: Disabled internal video player across watch screen and in-app web engine; added External Video Player selector (System Default, mpv, VLC, MX Player) with automatic external handoff for all streams."
 }

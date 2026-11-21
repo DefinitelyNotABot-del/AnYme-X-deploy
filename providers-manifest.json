@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updatedAt": "2026-11-15T17:11:02.398Z",
+  "version": 2,
+  "updatedAt": "2026-11-21T18:46:24.967Z",
   "providerOrder": [
     "Miruro",
     "AnimeSuge",
@@ -10,10 +10,10 @@
   "animesuge": {
     "mirrors": [
       "https://animesuge.re",
-      "https://animesuge.skin",
-      "https://animesuge.to",
-      "https://animesuge.cc",
-      "https://animesuge.nz"
+      "https://anisuge.se",
+      "https://anisuge.tv",
+      "https://suge.to",
+      "https://animesugez.tv"
     ],
     "megaplayBaseUrl": "https://megaplay.buzz/",
     "megaplayAesKey": "i?LMTAx0Q6,:}50U",
@@ -25,25 +25,95 @@
   "4animo": {
     "mirrors": [
       "https://4animo.xyz",
-      "https://4animo.to",
-      "https://4animo.tv",
-      "https://4animo.pe",
-      "https://4animo.li"
+      "https://zanix.tr"
     ],
     "embedBases": [
       "https://novuscloud.buzz",
       "https://cdn.4animo.xyz"
     ],
-    "flixeraBase": "https://flixera.co"
+    "flixeraBase": "https://cloud.zanix.tr"
   },
   "miruro": {
     "mirrors": [
       "https://www.miruro.bz",
-      "https://www.miruro.tv",
       "https://www.miruro.cx",
-      "https://www.miruro.to",
-      "https://www.miruro.online"
+      "https://www.miruro.ru"
     ]
+  },
+  "deprecatedMirrors": {
+    "animesuge": [
+      "https://animesuge.skin",
+      "https://animesuge.to",
+      "https://animesuge.cc",
+      "https://animesuge.nz"
+    ],
+    "4animo": [
+      "https://4animo.to",
+      "https://4animo.tv",
+      "https://4animo.pe",
+      "https://4animo.li"
+    ],
+    "miruro": [
+      "https://www.miruro.tv",
+      "https://www.miruro.to",
+      "https://www.miruro.online",
+      "https://www.miruro.com"
+    ]
+  },
+  "searchConfig": {
+    "version": 1,
+    "maxQueryWords": 6,
+    "maxQueryLength": 48,
+    "subtitleDelimiters": [
+      ":",
+      " - ",
+      " — ",
+      " – ",
+      " ~ ",
+      " | ",
+      " / "
+    ],
+    "stripTags": [
+      "(TV)",
+      "(Dub)",
+      "(Sub)",
+      "(Uncensored)",
+      "Uncensored"
+    ],
+    "symbolReplacements": {
+      "★": " ",
+      "☆": " ",
+      "×": " ",
+      "½": " 1/2",
+      "’": "'",
+      "‘": "'",
+      "‛": "'",
+      "＇": "'",
+      "“": "\"",
+      "”": "\"",
+      "〜": "~",
+      "～": "~"
+    },
+    "queryOrder": [
+      "shortEnglish",
+      "cleanEnglish",
+      "shortRomaji",
+      "cleanRomaji",
+      "rawEnglish",
+      "rawRomaji",
+      "synonym"
+    ],
+    "hosts": {
+      "animesuge": {
+        "searchPathTemplate": "/search?keyword={query}",
+        "preferJpAttr": "data-jp",
+        "minMatchScore": 0.45
+      },
+      "4animo": {
+        "searchPathTemplate": "/ajax/search?keyword={query}"
+      }
+    },
+    "malTitleOverrides": {}
   },
   "archive": {
     "base": "https://archive.org",

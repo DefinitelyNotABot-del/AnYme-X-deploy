@@ -1,9 +1,9 @@
 {
-  "version": "0.21.4",
+  "version": "0.21.5",
   "releaseDate": "2026-11-26",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.21.4: Self-healing cover images with AniList+CDN failover, Season 1 Suggest Random root resolver, Details Reroll button with top-bar history reset, and playback hardening",
+  "changelog": "v0.21.5: Optimize CPU/GPU/RAM efficiency & isolated WebView runtime, upgrade Notification Center, harden responsive layouts at all window sizes, and add Completed-History weighted DNA matcher with fast double-back reset",
   "mobileVersion": "0.16.7",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-24",

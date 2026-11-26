@@ -1,9 +1,9 @@
 {
-  "version": "0.21.5",
+  "version": "0.21.6",
   "releaseDate": "2026-11-26",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.21.5: Optimize CPU/GPU/RAM efficiency & isolated WebView runtime, upgrade Notification Center, harden responsive layouts at all window sizes, and add Completed-History weighted DNA matcher with fast double-back reset",
+  "changelog": "v0.21.6: Restore default WebView2 EBWebView user data folder so all existing login tokens, history, and library data load immediately",
   "mobileVersion": "0.16.7",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-24",

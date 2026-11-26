@@ -1,9 +1,9 @@
 {
-  "version": "0.21.3",
-  "releaseDate": "2026-11-25",
+  "version": "0.21.4",
+  "releaseDate": "2026-11-26",
   "downloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.exe",
   "msiUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-X-Setup.msi",
-  "changelog": "v0.21.3: Fix offline downloaded video buffering and vault range chunking",
+  "changelog": "v0.21.4: Self-healing cover images with AniList+CDN failover, Season 1 Suggest Random root resolver, Details Reroll button with top-bar history reset, and playback hardening",
   "mobileVersion": "0.16.7",
   "mobileDownloadUrl": "https://github.com/DefinitelyNotABot-del/AnYme-X-deploy/raw/main/AnYme-mobile.apk",
   "mobileReleaseDate": "2026-10-24",

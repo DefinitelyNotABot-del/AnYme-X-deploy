@@ -25,7 +25,9 @@
   "4animo": {
     "mirrors": [
       "https://4animo.xyz",
-      "https://zanix.tr"
+      "https://zanix.tr",
+      "https://4animo.pe",
+      "https://4animo.li"
     ],
     "embedBases": [
       "https://novuscloud.buzz",
